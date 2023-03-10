@@ -1,5 +1,5 @@
 {
-  "name": "BestEmployees",
+  "name": "CoolEmployees",
   "version": "1.0.0",
   "description": "OOP",
   "main": "index.js",
@@ -8,15 +8,15 @@
     "test": "test"
   },
   "scripts": {
-    "test": "Skippy test/*"
+    "test": "jest --verbose test/*"
   },
   "repository": {
     "type": "",
-    "url": "git+https://github.com/JamesLJenks/10_OOP-Team-Profile-Generator.git"
+    "url": "git+https://github.com/Nateg5151/challenge-10.1.git"
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/JamesLJenks/10_OOP-Team-Profile-Generator",
+  "homepage": "https://github.com/Nateg5151/challenge-10.1",
   "dependencies": {
     "inquirer": "^6.3.1"
   },
